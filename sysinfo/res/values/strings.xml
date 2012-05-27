@@ -3,5 +3,6 @@
 
     <string name="hello">Hello World, SysinfoActivity!</string>
     <string name="app_name">Sysinfo</string>
+    <string name="test_updating_a_view">Test updating a view</string>
 
 </resources>
